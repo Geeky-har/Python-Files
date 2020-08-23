@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10e2fef-6466-43c4-8e42-9fed841dff3c" name="Default Changelist" comment="" />
+    <list default="true" id="e10e2fef-6466-43c4-8e42-9fed841dff3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NGG" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1daySAlMqRi2ITbuxHRG3dzT71D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +41,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.vs-test">
+  <component name="RunManager" selected="Python.nxt_palindrome">
     <configuration name="News_System" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nPrimeNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nxt_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nPrimeNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_Set/nxt_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="var_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/var_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_Set/restaurant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nxt_palindrome" />
+        <item itemvalue="Python.restaurant" />
         <item itemvalue="Python.vs-test" />
         <item itemvalue="Python.pickling_iris" />
         <item itemvalue="Python.News_System" />
-        <item itemvalue="Python.var_args" />
-        <item itemvalue="Python.nPrimeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -180,26 +183,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="520" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1597171771313" />
-    <state x="549" y="186" key="FileChooserDialogImpl" timestamp="1593198682780">
+    <state x="536" y="130" key="FileChooserDialogImpl" timestamp="1598117521002">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593198682780" />
-    <state width="1515" height="219" key="GridCell.Tab.0.bottom" timestamp="1597347345169">
+    <state x="536" y="130" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598117521002" />
+    <state width="1509" height="205" key="GridCell.Tab.0.bottom" timestamp="1598208539422">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="219" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597347345169" />
-    <state width="1515" height="219" key="GridCell.Tab.0.center" timestamp="1597347345169">
+    <state width="1509" height="205" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598208539422" />
+    <state width="1509" height="205" key="GridCell.Tab.0.center" timestamp="1598208539422">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="219" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597347345169" />
-    <state width="1515" height="219" key="GridCell.Tab.0.left" timestamp="1597347345169">
+    <state width="1509" height="205" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598208539422" />
+    <state width="1509" height="205" key="GridCell.Tab.0.left" timestamp="1598208539422">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="219" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597347345169" />
-    <state width="1515" height="219" key="GridCell.Tab.0.right" timestamp="1597347345169">
+    <state width="1509" height="205" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598208539422" />
+    <state width="1509" height="205" key="GridCell.Tab.0.right" timestamp="1598208539422">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="219" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597347345169" />
+    <state width="1509" height="205" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598208539422" />
     <state width="1515" height="277" key="GridCell.Tab.1.bottom" timestamp="1595764210967">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -220,9 +223,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="394" y="147" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1597170803801" />
-    <state x="472" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597346749992">
+    <state x="472" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1598114868004">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="472" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1597346749992" />
+    <state x="472" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1598114868004" />
+    <state x="546" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598206978630">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="546" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1598206978630" />
   </component>
 </project>
