@@ -4,7 +4,6 @@ import math
 
 def patt(n):
     pattern = ""
-
     pattern += "1/2"
 
     for i in range(2, n+1):
@@ -23,6 +22,8 @@ def calc(n):
 
 if __name__ == "__main__":
     n = int(input("Enter the number of terms: "))
+    if n == 0:
+        raise Exception("value 0 for term not allowed")
     pattern = patt(n)
     val = calc(n)
     print(f"The value of geometric equation {pattern} = {val}")
